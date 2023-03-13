@@ -1,0 +1,64 @@
+.smIcon-profile {
+  height: 50px;
+  background-color: #111;
+  text-align: left;
+  justify-content: left;
+  display: flex;
+}
+
+.main {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 100px 0 100px 0;
+  background-color: #fff;
+}
+
+.sub-main {
+  display: flex;
+  justify-content: center;
+  height: 250px;
+  width: 20%;
+  box-shadow: 15px 15px 12px 1px #918f8f;
+  padding-top: 30px;
+  border-radius: 10px;
+  background-color: #111;
+}
+
+.image {
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+}
+
+.container-image {
+  background-color: #fff;
+  border-radius: 170px;
+  box-shadow: 1px 1px 0px 1px #ffffff;
+  align-items: center;
+  display: flex;
+  height: 110px;
+  width: 110px;
+}
+
+.user-profile {
+  height: 100px;
+  width: 110px;
+  border-radius: 150px;
+}
+
+.google-login {
+  margin-top: 30px;
+  
+}
+
+h5 {
+ color: #000;
+ font-size: 10px;
+ font-weight: normal;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: none;
+}
+
